@@ -38,7 +38,7 @@ Let's explore the vast ocean of data together and uncover its secrets!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 #### Data Analysis & Visualization:
-- **Data Analysis & Visualization Tools/Libraries:**  
+- **Tools/Libraries:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFA07A?style=flat-square&logoColor=white)  
@@ -47,7 +47,7 @@ Let's explore the vast ocean of data together and uncover its secrets!
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)  
 
 #### Database Management:
-- **Database Management for Data Warehousing:**  
+- **DBMS for Data Warehousing:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)  
 
