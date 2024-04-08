@@ -1,6 +1,7 @@
 <div align="center">
 
-![Businesswoman with laptop analyzing chart](https://github.com/Thanu-Cherukuri/Thanu-Cherukuri/assets/112831076/8f37362e-f29f-480f-ab9c-0074609019a9)
+![Github_Header](https://github.com/Thanu-Cherukuri/Thanu-Cherukuri/assets/112831076/cde20d72-2ae7-4421-b7eb-75a26b176b2a)
+
 
 # Hi👋, I'm Thanuja Cherukuri
 
@@ -12,14 +13,14 @@ I like interpreting and analyzing data to fuel growth while providing informed b
 
 ---
 
-#### 📌 Quick Facts
+## 📌 Quick Facts
 
 - 🔭 **Currently Working On:** Enhancing my skills as a data analyst.
 - 🌱 **Learning:** Machine Learning to complement my data analysis skills and bring predictive insights into the mix.
 - 💬 **Ask Me About:** Data analysis, visualization, and how to derive actionable insights from your dataset.
 - 📫 **Reach Me At:** thanujacherukuri111@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanuja%20Cherukuri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thanuja-c-482801186/)
 
-#### 🛠 Tech Stack & Skills
+## 🛠 Tech Stack & Skills
 
 - **Programming Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  
