@@ -1,23 +1,22 @@
 <p align="center">
-  <img src="https://github.com/Thanu-Cherukuri/Thanu-Cherukuri/assets/112831076/8f37362e-f29f-480f-ab9c-0074609019a9" alt="Businesswoman with laptop analyzing chart">
+  <img src="https://github.com/Thanu-Cherukuri/Thanu-Cherukuri/assets/112831076/8f37362e-f29f-480f-ab9c-0074609019a9" alt="Businesswoman with laptop analyzing chart" width="100%">
 </p>
-
 <h3 align="center">Hi👋, I'm Thanuja Cherukuri</h3>
 <h4 align="center">Exploring the World Through Data</h4>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thanu-Cherukuri" alt="Profile views">
 </p>
+<hr> <!-- This adds a horizontal line -->
 
-Here's a bit about me:
+### Here's a bit about me:
 
 - 🔭 **I’m currently working on:** Enhancing my skills as a data analyst. I am deeply committed to interpreting and analyzing data to fuel growth and enable informed business decision-making.
 - 🌱 **I’m currently learning:** Machine Learning. I'm diving into the fascinating world of machine learning to complement my data analysis skills and bring predictive insights into the mix.
 - 💬 **Ask me about:** Anything related to data analysis and visualization. Whether you're curious about the best practices in data cleaning, the most effective visualization tools, or how to derive actionable insights from your dataset, I'm here to share my knowledge and experiences.
 - 📫 **How to reach me:** thanujacherukuri111@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanuja%20Cherukuri-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thanuja-c-482801186/)
+<hr> <!-- This adds a horizontal line -->
 
-
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack & Skills:
 
 #### Fundamental Tools & Languages:
 - **Programming Languages:**  
